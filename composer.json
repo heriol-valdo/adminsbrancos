@@ -1,0 +1,15 @@
+{
+    "name": "poizon/clandovip",
+    "authors": [
+        {
+            "name": "poizon",
+            "email": "heriol valdo"
+        }
+    ],
+    "require": {
+        "sinergi/dictionary": "^0.4.0",
+        "phpmailer/phpmailer": "^6.1",
+        "mpdf/mpdf": "^7.1",
+        "endroid/qrcode": "^1.9"
+    }
+}
